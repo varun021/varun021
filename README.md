@@ -1,49 +1,40 @@
-# 💫 About Me:
-## 👋 Hi, I'm Varun Nair
+💫 About Me:
 
-I'm currently pursuing a **Master of Computer Applications (MCA)** at Pratibha Institute of Business Management, Pune University. I have a strong foundation in web development and software engineering, with a Bachelor's degree in Business Administration focused on Computer Applications (BBA(CA)).
+👋 Hi, I'm Varun Nair
 
-### 🚀 Skills and Expertise
+I'm currently pursuing a Master of Computer Applications (MCA) at Pratibha Institute of Business Management, Pune University, with a background in BBA(CA). I have a strong foundation in Web Development and Software Engineering.
 
-#### Web Development
-- **Languages:** HTML5, CSS3, JavaScript
-- **Frameworks:** Bootstrap, Flask, Django
-- **Tools:** Git, RESTful APIs, SQLAlchemy
+🚀 Skills
 
-#### Programming Languages
-- **Python**: Certified Python Specialist
-- **Java**
+Languages: Python, Java, JavaScript
+Frameworks: Flask, Django, React, Bootstrap
+Databases: MySQL, SQLite, MongoDB
+Tools: Git, RESTful APIs, SQLAlchemy
 
-#### Projects
-- **[Online Quiz Management System](#)**
-  - Developed using Flask, SQLAlchemy, and Flask-Login
-  - Features: User authentication, question addition, scoring functionalities
-- **[Recipe Search and Management System](#)**
-  - Integrated external API for recipe retrieval with secure authentication
-  - Developed RESTful API endpoints for managing recipes
-- **[Interactive TO-DO List Web App](#)**
-  - Implemented dynamic task addition/removal with HTML, CSS, JavaScript
-  - Utilized localStorage for persistent data storage
+🛠 Certifications
 
-### 🎓 Education
-- **Master of Computer Applications (MCA)**
-  - Pratibha Institute of Business Management, Pune University
-  - *2023 - Present*
+Python Specialist (Certiport)
 
-- **Bachelor of Business Administration in Computer Applications (BBA(CA))**
-  - Pratibha College of Commerce and Computer Studies, Pune University
-  - *2020 - 2023*
+Barclays LifeSkills Programme
 
-### 🛠 Certifications
-- **Python Specialist**
-  - Information Technology Specialist, Certiport (A Pearson VUE Business)
-  - *February 2024*
-- **Barclays LifeSkills Programme**
-  - *September 2022*
 
-### 📫 Let's Connect!
-- **Email:** nvarun2023@gmail.com
-- **LinkedIn:** [Varun Nair](#)
+🌟 Projects
+
+Online Quiz Management System (Flask, SQLAlchemy)
+
+Recipe Search and Management System (APIs, Flask)
+
+Interactive TO-DO List Web App (JavaScript, LocalStorage)
+
+
+📊 GitHub Stats
+
+
+
+
+
+
+
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -72,3 +63,6 @@ I'm currently pursuing a **Master of Computer Applications (MCA)** at Pratibha I
 [![](https://visitcount.itsvg.in/api?id=varun021&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+Let's build something amazing together!
